@@ -5,7 +5,12 @@ This is using "microsoft/speecht5_tts" model.
 
 Based on <a href="https://github.com/huggingface/blog/blob/main/speecht5.md">this readme article</a>
 
+It converts text into natural woman's voice in wav file.
+
+That's it. Nothing special, for now :)
+
 ## Requirements
+* PyQt5>=5.14
 * transformers
 * torch
 * soundfile
